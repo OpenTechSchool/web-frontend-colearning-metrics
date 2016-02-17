@@ -2,6 +2,10 @@
 
 Checkout the online version: http://opentechschool.github.io/web-frontend-colearning-metrics
 
+## Running
+
+Run this example with a local web server
+`$ python -m SimpleHTTPServer`
 
 ## Data
 
