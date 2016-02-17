@@ -4,8 +4,13 @@ Checkout the online version: http://opentechschool.github.io/web-frontend-colear
 
 ## Running
 
-Run this example with a local web server
+## Mac
+Run this example with a local web server. For example, for Mac users you can use this command from your terminal
 `$ python -m SimpleHTTPServer`
+
+## Windows
+
+Buy a Mac / get Linux.
 
 ## Data
 
